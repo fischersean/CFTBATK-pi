@@ -1,5 +1,5 @@
 colorzero==1.1
 gpiozero==1.5.1
-Pillow==7.0.0
+Pillow==7.1.0
 RPi.GPIO==0.7.0
 spidev==3.4
